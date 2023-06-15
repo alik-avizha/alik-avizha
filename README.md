@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Avizha
-========================================================================================================================================
+<hr>
+
 Welcome to my profile, friend! I'm happy to welcome you. Here you'll find my projects and source code related to web development. I try to write clean and clear code that's easy to maintain and scale. If you have any ideas or suggestions to improve my projects, feel free to share them with me. Also, if you need help or advice on web development, I'm always willing to help. Feel free to ask questions or just chat. Thanks for stopping by. I hope you enjoy your time here!
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at [alik-avizha.github.io/portfolio/](http://alik-avizha.github.io/portfolio/)
+* 🖥️  See my portfolio at [alik-avizha.github.io/portfolio/](http://alik-avizha.github.io/portfolio)
 * ✉️  You can contact me at [aleksandraviza@gmail.com](mailto:aleksandraviza@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-<br>
+<hr>
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
