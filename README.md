@@ -4,7 +4,7 @@
 Welcome to my profile, friend! I'm happy to welcome you. Here you'll find my projects and source code related to web development. I try to write clean and clear code that's easy to maintain and scale. If you have any ideas or suggestions to improve my projects, feel free to share them with me. Also, if you need help or advice on web development, I'm always willing to help. Feel free to ask questions or just chat. Thanks for stopping by. I hope you enjoy your time here!
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at [alik-avizha.github.io/portfolio/](http://alik-avizha.github.io/portfolio)
+* 🖥️  See my portfolio at [alik-avizha.github.io/portfolio](http://alik-avizha.github.io/portfolio)
 * ✉️  You can contact me at [aleksandraviza@gmail.com](mailto:aleksandraviza@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 <hr>
