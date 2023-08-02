@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksandr+Avizha)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right" alt="Computador">
+
 <hr>
 
 Welcome to my profile, friend! I'm happy to welcome you. Here you'll find my projects and source code related to web development. I try to write clean and clear code that's easy to maintain and scale. If you have any ideas or suggestions to improve my projects, feel free to share them with me. Also, if you need help or advice on web development, I'm always willing to help. Feel free to ask questions or just chat. Thanks for stopping by. I hope you enjoy your time here!)
