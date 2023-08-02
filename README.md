@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksandr+Avizha)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksandr+Avizha)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right" alt="Computador">
+</p>
 
 <hr>
 
