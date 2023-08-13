@@ -53,8 +53,6 @@ Welcome to my profile, friend! I'm happy to welcome you. Here you'll find my pro
 ### Socials
 <p align="left"> <a href="http://www.instagram.com/alik.avi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksandr-avizha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr>
-### 📈 Codewars:
 
-[![codewars](https://www.codewars.com/users/alik-avizha/badges/large)]
+![codewars](https://www.codewars.com/users/alik-avizha/badges/large)
 
----
